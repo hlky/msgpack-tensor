@@ -1,5 +1,7 @@
 # msgpack-tensor
 
+`msgpack` (`u-msgpack-python`) extension for `torch.Tensor` using `blosc` for compression.
+
 ## Usage
 
 ```python
